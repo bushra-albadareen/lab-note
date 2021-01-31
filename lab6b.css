@@ -1,0 +1,13 @@
+header nav ul li a {
+    color: coral;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+
+}
+
+main {
+    text-align: right;
+    
+}
+
