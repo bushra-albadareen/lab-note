@@ -15,7 +15,9 @@ if (order === "red velvet" ){
 var nocake=prompt("how many cake do you want to order");
 var result = '';
 
-for (var i=0; i< nocake; i++)(
+for (var i=0; i< nocake; i++){
     result = result + itemorder;
-)
+}
+   
+
 document.write (result);
