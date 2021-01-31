@@ -5,12 +5,8 @@ header nav ul li a {
     text-align: center;
 
 }
-
-main {
-    text-align: right;
     
-}
 
 #cakephoto {
-    float: left;
+    float: center;
 }
