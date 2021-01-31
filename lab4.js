@@ -1,3 +1,4 @@
+
 var nocake=prompt("how many cake do you want to order");
 var orderdetails;
 

@@ -7,9 +7,9 @@ while ( order != "red velvet" && order !== "carrot" ){
 var itemorder = ""; 
 
 if (order === "red velvet" ){
-    itemorder = " <img src= ' https://cdn.sallysbakingaddiction.com/wp-content/uploads/2019/02/red-velvet-cake-slice-2.jpg'/>"
+    itemorder = " <img src='red-velvet.jpg'/>"
 } else if (order === "carrot"){
-    itemorder = "<img src= 'https://i.ytimg.com/vi/EJ5AlErxLWY/maxresdefault.jpg'/>"
+    itemorder = "<img src= 'carrot.jpg'/>"
 }
 
 var nocake=prompt("how many cake do you want to order");
